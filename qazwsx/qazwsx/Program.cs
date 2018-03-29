@@ -10,6 +10,13 @@ namespace qazwsx
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hiiiiiiii");
+            Console.WriteLine("Hiiiiiii");
+            Console.WriteLine("Hiiiiii");
+            Console.WriteLine("Hiiiii");
+            Console.WriteLine("Hiiii");
+            Console.WriteLine("Hiii");
+            Console.WriteLine("Hii");
             Console.WriteLine("Hi");
         }
     }
